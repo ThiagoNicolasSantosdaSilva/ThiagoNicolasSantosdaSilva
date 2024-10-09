@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @ThiagoNicolasSantosdaSilva
-- 👀 I’m interested in: Trabalhar como Programdor, para adquerir experiência na área.
-- 🌱 I’m currently learning como utilizar o git e gitHub, fazendo aulas do curso de Html no cursoemvideo do Professor: Gustavo Guanabara, entre outras linguangens de programação.
-- 💞️ I’m looking to collaborate on: Projetos que estou criando atualmente.
-- 📫 How to reach me: Envie um E-mail para a conta profissional.thiagonicolas@gmail.com
+# 👋 Olá, me chamo Thiago!
 
-<!---
-ThiagoNicolasSantosdaSilva/ThiagoNicolasSantosdaSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Sobre mim
+Sou um desenvolvedor front-end de 18 anos, com 3 anos e meio de experiência. Aprofundei-me em diversas tecnologias e frameworks, como **HTML, CSS, JavaScript, PHP, MySQL** e **Bootstrap**. Também possuo conhecimento em **Python** e estou sempre em busca de novos aprendizados.
+
+### Habilidades Técnicas
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap
+- **Back-end:** PHP, Python
+- **Database:** MySQL
+- **Outros:** ...
+
+### 🌟 Projetos em Destaque
+Aqui estão alguns dos meus repositórios mais importantes:
+
+1. [**Portfólio THG**](https://github.com/ThiagoNicolasSantosdaSilva/Portf-lio-THG)
+   - **Descrição:** Repositório criado para meu portfólio, onde apresento meus projetos, quem eu sou de forma aprofundada e minhas certificações.
+
+2. [**Gran Donuts**](https://github.com/ThiagoNicolasSantosdaSilva/GranDonuts)
+   - **Descrição:** Desenvolvimento de um site para a empresa Gran Donuts, criado para a divulgação e venda dos produtos da empresa.
+
+3. [**SwanShine**](https://github.com/SwanShine/Site-SwanShine)
+   - **Descrição:** Projeto desenvolvido para uma organização da qual faço parte, criando um site do zero para a empresa SwanShine.
+
+### 🎓 Certificações
+Minhas principais certificações:
+- **HTML:** Curso de HTML do Curso em Vídeo de 40h.
+- **Certificação 2:** Breve descrição
+- **Certificação 3:** Breve descrição
+
+### 📬 Contato
+Sinta-se à vontade para me contatar e explorar meus trabalhos:
+- [LinkedIn](https://www.linkedin.com/in/thiago-nicolas-s-da-silva-516711231/)
+- [Email](mailto:profissional.thiagonicolas@gmail.com)
+- [Instagram](https://www.instagram.com/thiago11nicolas/)
+
+---
+
+💡 _“A tecnologia move o mundo.” - Steve Jobs_
+
+🚀 Vamos juntos transformar o futuro com inovação e criatividade!
