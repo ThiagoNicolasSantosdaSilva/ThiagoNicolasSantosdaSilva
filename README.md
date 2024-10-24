@@ -24,14 +24,13 @@ Aqui estão alguns dos meus repositórios mais importantes:
 ### 🎓 Certificações
 Minhas principais certificações:
 - **HTML:** Curso de HTML do Curso em Vídeo de 40h.
-- **Certificação 2:** Breve descrição
-- **Certificação 3:** Breve descrição
+
 
 ### 📬 Contato
 Sinta-se à vontade para me contatar e explorar meus trabalhos:
-- [LinkedIn](https://www.linkedin.com/in/thiago-nicolas-s-da-silva-516711231/)
-- [Email](mailto:profissional.thiagonicolas@gmail.com)
-- [Instagram](https://www.instagram.com/thiago11nicolas/)
+- [**LinkedIn**](https://www.linkedin.com/in/thiago-nicolas-s-da-silva-516711231/)
+- [**Email**](mailto:profissional.thiagonicolas@gmail.com)
+- [**Instagram**](https://www.instagram.com/thiago11nicolas/)
 
 ---
 
